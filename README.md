@@ -38,6 +38,6 @@ Obrigado por usar o Rock Radio Alexa Skill! Aproveite a experiência de streamin
 
 ## Autor
 
-Márcio Sena Santos Filho
+Márcio Sena 
 
 https://www.linkedin.com/in/marciosenaf/
